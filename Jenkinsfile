@@ -1,13 +1,10 @@
 @Library('jenkins-library@master')
 
-import 
-com.jenkins.pipeline.Pipeline
+import com.jenkins.pipeline.YamlTest
 
 
 
-YamlTest
-p = new 
-YamlTest()
+YamlTest p = new YamlTest()
 
 
 
